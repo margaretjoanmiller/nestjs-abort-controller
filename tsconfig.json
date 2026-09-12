@@ -3,11 +3,12 @@
     "module": "commonjs",
     "target": "esnext",
     "declaration": true,
-    "outDir": "dist",
+    "outDir": "./dist",
     "strict": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "rootDir": "."
   },
   "include": ["src/**/*.ts", "@types/jest"],
   "exclude": ["node_modules"]

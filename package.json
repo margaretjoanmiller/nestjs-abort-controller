@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-abort-controller",
+  "name": "@mjoanmiller/nestjs-abort-controller",
   "version": "1.2.0",
   "description": "AbortController integration for NestJS: request-scoped cancellation using AbortSignal.",
   "keywords": [
@@ -18,10 +18,6 @@
   },
   "license": "MIT",
   "author": "Ferhat Yalçın",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ylcnfrht/nestjs-abort-controller.git"
-  },
   "files": [
     "dist/**/*",
     "README.md",
