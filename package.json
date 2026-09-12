@@ -1,6 +1,6 @@
 {
   "name": "nest-abort-controller",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "AbortController integration for NestJS: request-scoped cancellation using AbortSignal.",
   "keywords": [
     "abort",
@@ -23,6 +23,7 @@
     "README.md",
     "LICENSE"
   ],
+  "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
