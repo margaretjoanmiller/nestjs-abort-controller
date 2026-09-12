@@ -1,5 +1,5 @@
 {
-  "name": "@mjoanmiller/nestjs-abort-controller",
+  "name": "nest-abort-controller",
   "version": "1.2.0",
   "description": "AbortController integration for NestJS: request-scoped cancellation using AbortSignal.",
   "keywords": [
